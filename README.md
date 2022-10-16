@@ -9,17 +9,16 @@ For a full writeup of the hackathon please access my blog at the following url:
 [NFT Hackathon](https://knarotam.github.io/)
 
 This repo has the following folder structure:
-## Info
+## [Info](https://github.com/KNarotam/NFTHackathon/tree/main/Info)
 This folder has the initial presentations from the kick off sessions with Avery.
 
-## Data
+## [Data](https://github.com/KNarotam/NFTHackathon/tree/main/Data)
 This folder houses all the data files that will be read from, written to, etc.
 
-## Dashboard
+## [Dashboard](https://github.com/KNarotam/NFTHackathon/tree/main/Dashboard)
 This folder will house the dashboards created in this hackathon. It will house the Power BI file, and potential links to the published dashboards or screenshots and such.
 
-## Notebook
+## [Notebook](https://github.com/KNarotam/NFTHackathon/tree/main/Notebook)
 This folder will have the Jupyter notebook of any work done on the hackathon and analysis done.
 
-## Presentation
-This folder has the final presentation created for the submission.
+## [Write-Up]()
